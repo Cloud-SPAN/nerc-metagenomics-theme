@@ -28,9 +28,8 @@ license terms.
 Under the following terms:
 
 * **Attribution** --- You must give appropriate credit (mentioning that your
-  work is derived from this project, provide a link to it 
-  (<{{ https://github.com/Cloud-SPAN }}>),provide a [link to the license][cc-by-human],
-  and indicate if changes were made). You may do so in any reasonable manner, but
+  work is derived from this project, providing a [link to it] (https://github.com/Cloud-SPAN), providing a [link to the license][cc-by-human],
+  and indicating if changes were made). You may do so in any reasonable manner, but
   not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions** --- You may not apply legal terms or

@@ -13,7 +13,7 @@ license][cc-by-legal].
 
 The Cloud-SPAN Genomics course consists of materials derived from Data Carpentry's [Genomics Workshop](https://datacarpentry.org/genomics-workshop/). This material is not endorsed by [Data Carpentry](<https://datacarpentry.org>) or [the Carpentries](https://carpentries.org/) in general.
 
-Cloud-SPAN is a collaboration between the [University of York](https://www.york.ac.uk/) and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the [UKRI innovation scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/). Project Reference: [MR/V038680/1](https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1).
+Cloud-SPAN is a collaboration between the [University of York](https://www.york.ac.uk/) and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the [UKRI Innovation Scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/). Project Reference: [MR/V038680/1](https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1).
 
 You are free:
 

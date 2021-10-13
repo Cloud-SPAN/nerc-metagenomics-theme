@@ -11,6 +11,10 @@ license][cc-by-human]. The following is a human-readable summary of
 (and not a substitute for) the [full legal text of the CC BY 4.0
 license][cc-by-legal].
 
+The Cloud-SPAN Genomics course consists of materials derived from Data Carpentry's [Genomics Workshop](https://datacarpentry.org/genomics-workshop/). This material is not endorsed by [Data Carpentry](<https://datacarpentry.org>) or [the Carpentries](https://carpentries.org/) in general.
+
+Cloud-SPAN is a collaboration between the [University of York](https://www.york.ac.uk/) and [The Software Sustainability Institute](https://www.software.ac.uk/) funded by the [UKRI innovation scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/). Project Reference: [MR/V038680/1](https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1).
+
 You are free:
 
 * to **Share** --- copy and redistribute the material in any medium or format
@@ -24,11 +28,8 @@ license terms.
 Under the following terms:
 
 * **Attribution** --- You must give appropriate credit (mentioning that your
-  work is derived from this lesson, provide a link to it 
-  (<{{ site.url }}>), and
-  for official lessons to the relevant lesson program (i.e.,
-  <https://software-carpentry.org >, <https://datacarpentry.org>, or
-  <https://librarycarpentry.org>), provide a [link to the license][cc-by-human],
+  work is derived from this project, provide a link to it 
+  (<{{ https://github.com/Cloud-SPAN }}>),provide a [link to the license][cc-by-human],
   and indicate if changes were made). You may do so in any reasonable manner, but
   not in any way that suggests the licensor endorses you or your use.
 

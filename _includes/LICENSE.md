@@ -1,8 +1,3 @@
----
-layout: page
-title: "Licenses"
-root: .
----
 ## Instructional Material
 
 JORGE's This instructional material is

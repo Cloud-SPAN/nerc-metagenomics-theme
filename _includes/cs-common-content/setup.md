@@ -28,7 +28,7 @@ Attendees using a Windows laptop or desktop must install **Git Bash** prior to t
 > - In the screen showing the message *"Configuring the terminal emulator to use with Git Bash"*, keep the selected (or select the) option **Use MinTTy (the default terminal of MSYS2)** and click on **Next**.
 > - In the screen showing the message *"Choose the default behaviour of `git pull`"*, keep the selected (or select the) option **Default (fast-forward or merge)** and click on **Next**. 
 > - In the screen showing the message *"Choose a credential helper"*, keep the selected (or select the) option **Git Credential Manager Core** and click on **Next**.
-> - In the screen showing the message *"Configuring extra options"*, keep the selected option and click on **Next**.
+> - In the screen showing the message *"Configuring extra options"*, click on **Next**.
 > - In the screen showing the message *"Configuring experimental options"*, click on **Install**.
 > - Click on **Finish**.
 >

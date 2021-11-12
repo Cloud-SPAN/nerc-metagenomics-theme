@@ -9,7 +9,6 @@ Due to the need to both follow the instructor in zoom and perform analysis, **ta
 
 Attendees using a Windows laptop or desktop must install **Git Bash** prior to the course, as instructed below. Git Bash is a command-line interface (CLI), also known as a **shell** or **terminal**, which will enable you to access your AMI from your personal computer. Attendees using a Linux or Mac OS X computer **do not need to install** any additional software, but only open a terminal running the Bash shell. 
 
-## Installing Git and Git Bash on Windows
 The steps below correspond to the installation of Git for Windows version 2.33.1 from scratch. The installation of a more recent version, or updating a previously installed version, may show different wording in the screen messages mentioned below or may vary slightly in the number of steps to follow. Just choose as many of the options below as possible. 
 - Download the [Git for Windows installer](https://gitforwindows.org/) which installs both Git and Git Bash. 
 - Once the installer is downloaded, double click on it and follow the next steps.

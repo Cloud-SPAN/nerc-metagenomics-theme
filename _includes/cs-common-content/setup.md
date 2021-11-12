@@ -11,40 +11,40 @@ Attendees using a Windows laptop or desktop must install **Git Bash** prior to t
 
 The steps below correspond to the installation of Git for Windows version 2.33.1 from scratch. The installation of a more recent version, or updating a previously installed version, may show different wording in the screen messages mentioned below or may vary slightly in the number of steps to follow. Just choose as many of the options below as possible. 
 - Download the [Git for Windows installer](https://gitforwindows.org/) which installs both Git and Git Bash. 
-- Once the installer is downloaded, double click on it and follow the next steps, wherein you will be asked a number of questions and to choose an option. **Each question** will be displayed at the top of a small window and **is shown below** in *"Italics"*, and the choice to be made in **bold**. So, in the screen-window showing the question:
-- *"The app you're trying to install isn't a Microsoft-verified app"*
+- Once the installer is downloaded, double click on it and follow the next steps, wherein you will be asked a number of questions and to choose an option. **Each question** will be displayed at the top of a small window and **is shown below** in *Italics*, and the choice to be made in **bold**. So, in the screen-window showing the question:
+- *The app you're trying to install isn't a Microsoft-verified app*
   - click on **Install anyway**.
-- *"Do you want to allow this app to make changes to your device?"*
+- *Do you want to allow this app to make changes to your device?*
   - click on **Yes**.
-- *"GNU General Public License"*
+- *GNU General Public License*
   - click on **Next**.
-- *"Select Destination Location"*
+- *Select Destination Location*
   - click on **Next** (don't change the location shown).
-- *"Select Components"*
+- *Select Components*
   - select (click on) **Additional Icons** and then click on **Next**.
-- *"Select Start Menu Folder"*
+- *Select Start Menu Folder*
   - click on **Next** (don't change the folder name shown).
-- *"Choosing the default editor used by Git"*
+- *Choosing the default editor used by Git*
   - select **Use the nano editor by default** and click on **Next**. **NB**: you may need to click on the dropdown menu (a small icon like this 🔻or this 🔽 on the right of the default option shown) and to **scroll up** with the mouse to see this option.
-- *"Adjusting the name of the initial branch in new repositories"*
+- *Adjusting the name of the initial branch in new repositories*
   - keep the selected (or select the) option  **Let Git decide** and click on **Next**.
-- *"Adjusting your PATH environment"*
+- *Adjusting your PATH environment*
   - keep the selected, *Recommended* option **Git from the command line and also from 3rd-party software**, or selec it, and click on **Next**. NB: if this option is not selected, some programs that you need for the course will not work properly. If this happens rerun the installer and select the appropriate option.
-- *"Choosing the SSH executable"*
+- *Choosing the SSH executable*
   - keep the selected (or select the) option **Use bundled OpenSSH** and click on **Next**.
-- *"Choosing HTTPS transport backend"*
+- *Choosing HTTPS transport backend*
   - keep the selected (or select the) option **Use the OpenSSL library** and click on **Next**.
-- *"Configuring the line ending conversions"*
+- *Configuring the line ending conversions*
   - keep the selected (or select the) option **Checkout Windows-style, commit Unix-style line endings** and click on **Next**.
-- *"Configuring the terminal emulator to use with Git Bash"*
+- *Configuring the terminal emulator to use with Git Bash*
   - keep the selected (or select the) option **Use MinTTy (the default terminal of MSYS2)** and click on **Next**.
-- *"Choose the default behaviour of `git pull`"*
+- *Choose the default behaviour of `git pull`*
   - keep the selected (or select the) option **Default (fast-forward or merge)** and click on **Next**. 
-- *"Choose a credential helper"*
+- *Choose a credential helper*
   - keep the selected (or select the) option **Git Credential Manager Core** and click on **Next**.
-- *"Configuring extra options"*
+- *Configuring extra options*
   - keep the selected option and click on **Next**.
-- *"Configuring experimental options"*
+- *Configuring experimental options*
   - click on **Install**.
 - Click on **Finish**.
 

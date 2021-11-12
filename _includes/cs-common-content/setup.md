@@ -11,9 +11,11 @@ Attendees using a Windows laptop or desktop must install **Git Bash** prior to t
 
 The steps below correspond to the installation of Git for Windows version 2.33.1 from scratch. The installation of a more recent version, or updating a previously installed version, may show different wording in the screen messages mentioned below or may vary slightly in the number of steps to follow. Just choose as many of the options below as possible. 
 - Download the [Git for Windows installer](https://gitforwindows.org/) which installs both Git and Git Bash. 
-- Once the installer is downloaded, double click on it and follow the next steps.
-- In the screen showing the message *"The app you're trying to install isn't a Microsoft-verified app"* (at the top), click on **Install anyway**.
-- In the screen showing the message *"Do you want to allow this app to make changes to your device?"*, click on **Yes**.
+- Once the installer is downloaded, double click on it and follow the next steps, wherein you will be asked a number of questions and to choose an option. **Each question** will be displayed at the top of a small window and **is shown below** in *italics*, and the choice to be made in **bold**. So, in the screen-window showing the question:
+- *"The app you're trying to install isn't a Microsoft-verified app"*
+  - click on **Install anyway**.
+- *"Do you want to allow this app to make changes to your device?"*
+  - click on **Yes**.
 - In the screen showing the message *"GNU General Public License"*, click on **Next**.
 - In the screen showing the message *"Select Destination Location"*, click on **Next** (don't change the location shown).
 - In the screen showing the message *"Select Components"*, select (click on) **Additional Icons** and then click on **Next**.

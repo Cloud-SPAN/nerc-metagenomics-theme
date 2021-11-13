@@ -1,17 +1,25 @@
 # Overview
 
-The software and data used for cloud based analysis during the course are hosted on an Amazon Web Services (AWS) Machine Image (AMI) instance. A copy of such instance that requires no previous setup by you will be made available to you at no cost by the Cloud-SPAN team. **Windows users** will need to install Git for Windows on their laptop or desktop machine as described below. Git includes the tool **Git Bash** which will enable Windows user attendees to use a Unix-like shell environment to access their AMI. (Such an environment is available by default for Linux and Mac users.) 
+The software and data used for analysis during the course are hosted on an Amazon Web Services (AWS) virtual machine (VM) instance. A copy of such instance that requires no previous setup by you will be made available to you at no cost by the Cloud-SPAN team. 
 
-Due to the need to both follow the instructor in zoom and perform analysis, **tablets** and **ipads are not suitable** for using during this course. Having a second screen is not necessary for this course, however if you have access to this, this may make it easier to follow along. We will be using a web version of the integrative genomics viewer (IGV), alongside using zoom and connecting to the AMI, and so having both an up to date browser and a stable internet connection is important.
+To accesss and use the resources in your AWS instance from your personal computer, you will use a command-line interface (**CLI**) program known as the **shell** or **terminal**. The shell is available by default for Linux and Mac users (to they don't need to install any software). **Windows users** will need to install Git for Windows on their computer as described below **prior to the course**. Git includes **Git Bash** which is a Windows version of the Unix Bash shell, the most widely used shell and the defaul shell in Linux systems. Bash stands for *Bourne Again Shell*.
 
+You need to use a laptop or desktop for this course. Due to the need both to follow the instructor in zoom and to perform analyses, **tablets** and **ipads are not suitable** for using during this course.  Having both an up to date browser and a stable internet connection is important.
 
-## Installing Git Bash in your Windows personal computer
+Before the course you will receive via email the information that you will need to login to your AWS instance during the course.   
 
-Attendees using a Windows laptop or desktop must install **Git Bash** prior to the course, as instructed below. Git Bash is a command-line interface (CLI), also known as a **shell** or **terminal**, which will enable you to access your AMI from your personal computer. Attendees using a Linux or Mac OS X computer **do not need to install** any additional software, but only open a terminal running the Bash shell. 
+## Installing Git Bash in your Windows computer
 
 The steps below correspond to the installation of Git for Windows version 2.33.1 from scratch. The installation of a more recent version, or updating a previously installed version, may show different wording in the screen messages mentioned below or may vary slightly in the number of steps to follow. Just choose as many of the options below as possible. 
-- Download the [Git for Windows installer](https://gitforwindows.org/) which installs both Git and Git Bash. 
-- Once the installer is downloaded, double click on it and **follow** the **next steps**, wherein you will be asked some questions and to select an option. **Each question** will be displayed at the top of a small window and **is shown below** in *Italics*, and the selection to be made in **bold**. So, in the screen-window showing the question:
+
+- Click on this link: [Git for Windows download page](https://gitforwindows.org/)
+- Once in that page, 
+  - click on **Download** to download the installer.
+- Once the installer is downloaded, 
+  - **double click on it** 
+  - you will then be asked some questions and to select an option for each question. 
+  - each question will be displayed at the top of a small window and **is shown below** in *Italics*, and the selection to be made in **bold**
+  - 
 - The app you're trying to install isn't a Microsoft-verified app ..?
   - Click on **Install anyway**
 - Do you want to allow this app to make changes to your device?

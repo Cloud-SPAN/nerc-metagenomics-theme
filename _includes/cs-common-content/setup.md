@@ -13,9 +13,9 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
 - Download the [Git for Windows installer](https://gitforwindows.org/) which installs both Git and Git Bash. 
 - Once the installer is downloaded, double click on it and **follow** the **next steps**, wherein you will be asked some questions and to select an option. **Each question** will be displayed at the top of a small window and **is shown below** in *Italics*, and the selection to be made in **bold**. So, in the screen-window showing the question:
 - *The app you're trying to install isn't a Microsoft-verified app ..?*
-  - click on **Install anyway**.
+    - click on **Install anyway**.
 - *Do you want to allow this app to make changes to your device?*
-  - click on **Yes**.
+    - click on **Yes**.
 - *GNU General Public License*
   - click on **Next**.
 - *Select Destination Location*

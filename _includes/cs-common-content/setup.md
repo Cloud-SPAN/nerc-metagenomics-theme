@@ -12,10 +12,10 @@ Attendees using a Windows laptop or desktop must install **Git Bash** prior to t
 The steps below correspond to the installation of Git for Windows version 2.33.1 from scratch. The installation of a more recent version, or updating a previously installed version, may show different wording in the screen messages mentioned below or may vary slightly in the number of steps to follow. Just choose as many of the options below as possible. 
 - Download the [Git for Windows installer](https://gitforwindows.org/) which installs both Git and Git Bash. 
 - Once the installer is downloaded, double click on it and **follow** the **next steps**, wherein you will be asked some questions and to select an option. **Each question** will be displayed at the top of a small window and **is shown below** in *Italics*, and the selection to be made in **bold**. So, in the screen-window showing the question:
-- *The app you're trying to install isn't a Microsoft-verified app ..?*
-      - Click on **Install anyway**.
-- *Do you want to allow this app to make changes to your device?*
-      - Click on **Yes**.
+- The app you're trying to install isn't a Microsoft-verified app ..?
+  - Click on **Install anyway**
+- Do you want to allow this app to make changes to your device?
+  - Click on **Yes**
 - *GNU General Public License*
   - click on **Next**.
 - *Select Destination Location*
@@ -26,6 +26,9 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
   - click on **Next** (don't change the folder name shown).
 - *Choosing the default editor used by Git*
   - select **Use the nano editor by default** and click on **Next**. **NB**: you may need to click on the dropdown menu (a small icon like this 🔻or this 🔽 on the right of the default option shown) and to **scroll up** with the mouse to see this option.
+
+  <img src="../fig/icon-git-bash2.png" alt="GIT BASH terminal" width="50"/> 
+
 - *Adjusting the name of the initial branch in new repositories*
   - keep the selected (or select the) option  **Let Git decide** and click on **Next**.
 - *Adjusting your PATH environment*

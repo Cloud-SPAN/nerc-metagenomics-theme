@@ -2,7 +2,9 @@
 
 The software and data used for analysis during the course are hosted on an Amazon Web Services (AWS) virtual machine (VM) instance. A copy of such instance that requires no previous setup by you will be made available to you at no cost by the Cloud-SPAN team. 
 
-To accesss and use the resources in your AWS instance from your personal computer, you will use a command-line interface (**CLI**) program that is widely known as the **shell** or **terminal**. The shell is available by default for Linux and Mac users (so they don't need to install any software). **Windows users** will need to install Git for Windows on their computer as described below **prior to the course**. Git includes **Git Bash** which is a Windows version of the Unix Bash shell, the most widely used shell and the default shell in Linux systems. Bash stands for *Bourne Again Shell*. 
+To accesss and use the resources in your AWS instance from your personal computer, you will use a command-line interface (**CLI**) program that is widely known as the **shell** or **terminal**. The shell is available by default for Linux and Mac users (so they don't need to install any software). 
+
+**Windows users** will need to install Git for Windows on their computer as described below **prior to the course**. Git includes **Git Bash** which is a Windows version of the Unix Bash shell, the most widely used shell and the default shell in Linux systems. Bash stands for *Bourne Again Shell*. 
 
 You will need to use a laptop or desktop to take this course. Due to the need both to follow the instructor in zoom and to perform analyses, **tablets** and **ipads are not suitable** for using during this course.  Having both an up to date browser and a stable internet connection is important.
 
@@ -67,7 +69,4 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
 
 **Exit** Git Bash by pressing Ctrl-d -- that is pressing the keys Ctrl and d simultaneously.
 
-In addition to be CLI, Bash shell is a powerful command programming language. This is the link to the [Wikipedia entry for Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
-
-
-
+In addition to be a CLI, Bash shell is a powerful command programming language and has a long and interesting history which you can read in the [Wikipedia entry for Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).

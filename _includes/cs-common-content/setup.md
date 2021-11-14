@@ -34,9 +34,9 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
   - click on **Next** (don't change the folder name shown)
 - *Choosing the default editor used by Git*
   - select **Use the nano editor by default** and click on **Next**. 
-  - **NB**: you may need to click on the dropdown menu and to **scroll up** with the mouse to see this option -- see the figure:
+  - **NB**: you may need to click on the dropdown menu and to **scroll up** with the mouse to see this option -- see the figure:.
 
-  <img src="git-installation-nano-option.png" alt="GIT BASH nano editor option" width="50"/> 
+  <img src="../fig/icon-git-bash2.png" alt="GIT BASH terminal" width="50"/> 
 
 - *Adjusting the name of the initial branch in new repositories*
   - keep the selected (or select the) option  **Let Git decide** and click on **Next**.

@@ -39,7 +39,7 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
   - select **Use the nano editor by default** and click on **Next**. 
   - **NB**: you may need to click on the dropdown menu and to **scroll up** with the mouse to see this option -- see the figure:
 
-  <img src="./git-installation-nano-option.png" alt="GIT installation nano option" width="600"/> 
+  <img src="./fig/git-installation-nano-option.png" alt="GIT installation nano option" width="600"/> 
 
 - *Adjusting the name of the initial branch in new repositories*
   - keep the selected (or select the) option  **Let Git decide** and click on **Next**.
@@ -67,7 +67,7 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
 
 **Run** Git Bash by double clicking on the Git Bash icon in your Desktop screen.
 
-<img src="./gitbash-launch-icon.png" alt="Git Bash launch icon" width="200"/> 
+<img src="./fig/gitbash-launch-icon.png" alt="Git Bash launch icon" width="200"/> 
 
 **Exit** Git Bash by pressing Ctrl-d -- that is pressing the keys Ctrl and d simultaneously.
 

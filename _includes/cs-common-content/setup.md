@@ -2,7 +2,7 @@
 
 The software and data used for analysis during the course are hosted on an Amazon Web Services (AWS) virtual machine (VM) instance. A copy of such instance that requires no previous setup by you will be made available to you at no cost by the Cloud-SPAN team. 
 
-To accesss and use the resources in your AWS instance from your personal computer, you will use a command-line interface (**CLI**) program known as the **shell** or **terminal**. The shell is available by default for Linux and Mac users (to they don't need to install any software). **Windows users** will need to install Git for Windows on their computer as described below **prior to the course**. Git includes **Git Bash** which is a Windows version of the Unix Bash shell, the most widely used shell and the defaul shell in Linux systems. Bash stands for *Bourne Again Shell*.
+To accesss and use the resources in your AWS instance from your personal computer, you will use a command-line interface (**CLI**) program that is widely known as the **shell** or **terminal**. The shell is available by default for Linux and Mac users (so they don't need to install any software). **Windows users** will need to install Git for Windows on their computer as described below **prior to the course**. Git includes **Git Bash** which is a Windows version of the Unix Bash shell, the most widely used shell and the defaul shell in Linux systems. Bash stands for *Bourne Again Shell*.
 
 You need to use a laptop or desktop for this course. Due to the need both to follow the instructor in zoom and to perform analyses, **tablets** and **ipads are not suitable** for using during this course.  Having both an up to date browser and a stable internet connection is important.
 
@@ -10,7 +10,7 @@ Before the course you will receive via email the information that you will need 
 
 ## Installing Git Bash in your Windows computer
 
-The steps below correspond to the installation of Git for Windows version 2.33.1 from scratch. The installation of a more recent version, or updating a previously installed version, may show different wording in the screen messages mentioned below or may vary slightly in the number of steps to follow. Just choose as many of the options below as possible. 
+The steps below correspond to the installation of Git for Windows version 2.33.1 from scratch. The installation of a more recent version, or updating a previously installed version, may show different wording in the screen messages mentioned below or may vary slightly in the number of steps to follow. Choose as many of the options below as possible.
 
 - Click on this link: [Git for Windows download page](https://gitforwindows.org/)
 - Once in that page, 
@@ -18,24 +18,25 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
 - Once the installer is downloaded, 
   - **double click on it** 
   - you will then be asked some questions and to select an option for each question. 
-  - each question will be displayed at the top of a small window and **is shown below** in *Italics*, and the selection to be made in **bold**
-  - 
-- The app you're trying to install isn't a Microsoft-verified app ..?
+  - each question will be displayed at the top of a small window and **is shown below** in *Italics*, and the selection to be made is shown in **bold**
+- *The app you're trying to install isn't a Microsoft-verified app ..?*
   - Click on **Install anyway**
-- Do you want to allow this app to make changes to your device?
+- *Do you want to allow this app to make changes to your device?*
   - Click on **Yes**
 - *GNU General Public License*
-  - click on **Next**.
+  - click on **Next**
 - *Select Destination Location*
   - click on **Next** (don't change the location shown).
 - *Select Components*
-  - select (click on) **Additional Icons** and then click on **Next**.
+  - click on **Additional Icons** (it will also select "On the Desktop" option) 
+  - then click on **Next**
 - *Select Start Menu Folder*
-  - click on **Next** (don't change the folder name shown).
+  - click on **Next** (don't change the folder name shown)
 - *Choosing the default editor used by Git*
-  - select **Use the nano editor by default** and click on **Next**. **NB**: you may need to click on the dropdown menu (a small icon like this 🔻or this 🔽 on the right of the default option shown) and to **scroll up** with the mouse to see this option.
+  - select **Use the nano editor by default** and click on **Next**. 
+  - **NB**: you may need to click on the dropdown menu and to **scroll up** with the mouse to see this option -- see the figure:
 
-  <img src="../fig/icon-git-bash2.png" alt="GIT BASH terminal" width="50"/> 
+  <img src="../fig/git-installation-nano-option.png" alt="GIT BASH nano editor option" width="50"/> 
 
 - *Adjusting the name of the initial branch in new repositories*
   - keep the selected (or select the) option  **Let Git decide** and click on **Next**.

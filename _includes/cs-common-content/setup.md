@@ -4,7 +4,7 @@ The software and data used for analysis during the course are hosted on an Amazo
 
 To accesss and use the resources in your AWS instance from your personal computer, you will use a command-line interface (**CLI**) program that is widely known as the **shell** or **terminal**. The shell is available by default for Linux and Mac users (so they don't need to install any software). 
 
-**Windows users** will need to install Git for Windows on their computer as described below **prior to the course**. Git includes **Git Bash** which is a Windows version of the Unix Bash shell, the most widely used shell and the default shell in Linux systems. Bash stands for *Bourne Again Shell*. 
+**Windows users** will need to install Git for Windows on their computer as described below **prior to the course**. Git includes **Git Bash** which is a Windows version of the Unix Bash shell, the most widely used shell and the default shell in Linux systems. 
 
 You will need to use a laptop or desktop to take this course. Due to the need both to follow the instructor in zoom and to perform analyses, **tablets** and **ipads are not suitable** for using during this course.  Having both an up to date browser and a stable internet connection is important.
 
@@ -19,7 +19,9 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
 - Once the installer is downloaded, 
   - **double click on it** 
   - you will then be asked some questions and to select an option for each question. 
-  - each question will be displayed at the top of a small window and **is shown below** in *Italics*, and the selection to be made is shown in **bold**
+  - each question **is shown below** in *Italics*, and the selection to be made is shown in **bold**
+  - during the actual installation each question will be displayed at the top of a small window but we are showing only the small window for the question that requires somewhat more help
+  - the first question is next:
 - *The app you're trying to install isn't a Microsoft-verified app ..?*
   - Click on **Install anyway**
 - *Do you want to allow this app to make changes to your device?*
@@ -69,4 +71,4 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
 
 **Exit** Git Bash by pressing Ctrl-d -- that is pressing the keys Ctrl and d simultaneously.
 
-In addition to be a CLI, Bash shell is a powerful command programming language and has a long and interesting history which you can read in the [Wikipedia entry for Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
+Bash stands for *Bourne Again Shell*. In addition to be a CLI, Bash shell is a powerful command programming language and has a long and interesting history which you can read in the [Wikipedia entry for Bash shell](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).

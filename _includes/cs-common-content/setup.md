@@ -13,8 +13,7 @@ Before the course you will receive via email the information that you will need 
 The steps below correspond to the installation of Git for Windows version 2.33.1 from scratch. The installation of a more recent version, or updating a previously installed version, may show different wording in the screen messages mentioned below or may vary slightly in the number of steps to follow. Choose as many of the options below as possible.
 
 - Click on this link: [Git for Windows download page](https://gitforwindows.org/)
-- Once in that page, 
-  - click on **Download** to download the installer.
+- Once in that page, click on **Download** to download the installer.
 - Once the installer is downloaded, 
   - **double click on it** 
   - you will then be asked some questions and to select an option for each question. 
@@ -41,7 +40,9 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
 - *Adjusting the name of the initial branch in new repositories*
   - keep the selected (or select the) option  **Let Git decide** and click on **Next**.
 - *Adjusting your PATH environment*
-  - keep the selected, *Recommended* option **Git from the command line and also from 3rd-party software**, or selec it, and click on **Next**. NB: if this option is not selected, some programs that you need for the course will not work properly. If this happens rerun the installer and select the appropriate option.
+  - keep the selected, *Recommended* option **Git from the command line and also from 3rd-party software**
+  - or selec it, and click on **Next**. 
+  - **NB**: if this option is not selected, some programs that you need for the course will not work properly. If this happens rerun the installer and select the appropriate option.
 - *Choosing the SSH executable*
   - keep the selected (or select the) option **Use bundled OpenSSH** and click on **Next**.
 - *Choosing HTTPS transport backend*
@@ -55,14 +56,16 @@ The steps below correspond to the installation of Git for Windows version 2.33.1
 - *Choose a credential helper*
   - keep the selected (or select the) option **Git Credential Manager Core** and click on **Next**.
 - *Configuring extra options*
-  - keep the selected option and click on **Next**.
+  - keep the selected option (Enable File System Caching) and click on **Next**.
 - *Configuring experimental options*
-  - click on **Install**.
-- Click on **Finish**.
+  - click on **Install** without selecting any option
+- Click on **Finish**
 
-**To run** Git Bash, double click on the Git Bash icon in your Desktop screen.
+**Run** Git Bash by double clicking on the Git Bash icon in your Desktop screen.
 
-**To exit** Git Bash, press Ctrl-d, that is pressing the keys Ctrl and d simultaneously.
+<img src="../fig/gitbash-launch-icon.png" alt="Git Bash launch icon" width="200"/> 
+
+**Exit** Git Bash by pressing Ctrl-d -- that is pressing the keys Ctrl and d simultaneously.
 
 
 

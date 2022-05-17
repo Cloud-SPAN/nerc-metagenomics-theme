@@ -52,7 +52,7 @@
   {% if site.kind == "lesson" %}
     {% if lesson_episodes.size > 0 %}
       {% comment %} For lessons show link to Course home page. {% endcomment %}
-      <li><a href="https://cloud-span.github.io/create-aws-instance-0-overview/">Course Overview</a></li>
+      <li><a href="https://cloud-span.github.io/metagenomics00-overview/">Course Overview</a></li>
       {% comment %} Show lesson episodes for lessons. {% endcomment %}
       <li class="dropdown">
         <a href="{{ relative_root_path }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Episodes <span class="caret"></span></a>
@@ -74,9 +74,10 @@
       <li class="dropdown">
         <a href="{{ relative_root_path }}/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Lessons <span class="caret"></span></a>
         <ul class="dropdown-menu">
-          <li><a href="https://cloud-span.github.io/create-aws-instance-1-open-account/">Lesson 1 Open your AWS account</a></li>
-          <li><a href="https://cloud-span.github.io/create-aws-instance-2-manage-instance/">Lesson 2 Create and manage your AWS instance</a></li>
-          <li><a href="https://cloud-span.github.io/create-aws-instance-3-costs-explained/">Lesson 3 AWS costs explained</a></li>
+          <li><a href="https://cloud-span.github.io/metagenomics01-qc-assembly/">Lesson 1 QC Assembly</a></li>
+          <li><a href="https://cloud-span.github.io/metagenomics02-binning/">Lesson 2 Binning</a></li>
+          <li><a href="https://cloud-span.github.io/metagenomics03-taxonomic-anno/">Lesson 3 Taxonomic Annotations</a></li>
+          <li><a href="https://cloud-span.github.io/metagenomics04-functional-anno/">Lesson 4 Functional Annotations</a></li>	
         </ul>
       </li>
     {% endif %}

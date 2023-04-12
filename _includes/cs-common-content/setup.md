@@ -77,11 +77,11 @@ Before the course you will receive via email the information that you will need 
 {: .solution}
 
 > ## Configure the Terminal to use Bash (instead of Zsh) --- Mac users
-> The instructions below will guide you to configure your **terminal** to use the Bash shell. Do so only if you cannot login to your instance as described in the Episode [Logging onto the Cloud](https://cloud-span.github.io/nerc-metagenomics01-file-directories/02-logging-onto-cloud/index.html), and your  terminal displays the error message **`ssh` command not found** instead when trying to login.
+> The instructions below will guide you to configure your **terminal** to use the Bash shell. Do so only if you cannot login to your instance as described in the Episode [Logging onto the Cloud](https://cloud-span.github.io/nerc-metagenomics01-file-directories/02-logging-onto-cloud/index.html), and your  terminal displays the error message "**`ssh` command not found**" instead when trying to login.
 >
 > You will also find below the instructions to revert your terminal configuration if you want to. Do so only after you have finished the course.
 >
-> ### Configuring the terminal to use Bash
+> ### **Configuring the terminal to use Bash**
 > First check that your terminal is actually running the Zsh shell. As shown in the screenshot below, the top bar of your terminal should show **zsh** next to your username on the right. If so, continue; otherwise get in touch with the Cloud-SPAN team.  
 >
 > <img src="./fig/mac01.png" alt="Mac terminal running Zsh shell" width="600"/> 
@@ -101,15 +101,15 @@ Before the course you will receive via email the information that you will need 
 >
 > <img src="./fig/mac04.png" alt="" width="600"/> 
 > 
-> Note that new terminals that you open will show the message:
+> Note that new terminals that you open will show the message:\
 > **The default interactive shell is now zsh**.\
-> **To update your account to use zsh, please run 'chsh -s /bin/zsh'.
+> **To update your account to use zsh, please run 'chsh -s /bin/zsh'.**
 > 
 > Just ignore it. 
 > 
 > You should now be able to login to your instance in the cloud. If not, get in touch with the Cloud-SPAN team.
 >
-> ### Configuring the terminal back to use Zsh
+> ### **Configuring the terminal back to use Zsh**
 > Once you finish the course, if want revert your terminal to its previous configuration, enter or copy-paste the `chsh` command below into a terminal and enter your password when prompted, see the screenshot:
 > ~~~
 > % chsh -s /bin/zsh

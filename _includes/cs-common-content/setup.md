@@ -76,7 +76,7 @@ Before the course you will receive via email the information that you will need 
 >
 {: .solution}
 
-> ## Configure the terminal to use Bash (instead of Zsh) --- Mac users
+> ## Configure the Terminal to use Bash (instead of Zsh) --- Mac users
 > The instructions below will guide you to configure your **terminal** to use the Bash shell. Do so only if you cannot login to your instance as described in the Episode [Logging onto the Cloud](https://cloud-span.github.io/nerc-metagenomics01-file-directories/02-logging-onto-cloud/index.html), and your  terminal displays the error message **`ssh` command not found** instead when trying to login.
 >
 > You will also find below the instructions to revert your terminal configuration if you want to. Do so only after you have finished the course.
@@ -84,7 +84,7 @@ Before the course you will receive via email the information that you will need 
 > ### Configuring the terminal to use Bash
 > First check that your terminal is actually running the Zsh shell. As shown in the screenshot below, the top bar of your terminal should show **zsh** next to your username on the right. If so, continue; otherwise get in touch with the Cloud-SPAN team.  
 >
-> <img src="./fig/mac01.png" alt="Mac terminal running Zsh shell" width="200"/> 
+> <img src="./fig/mac01.png" alt="Mac terminal running Zsh shell" width="600"/> 
 >
 > Enter or copy-paste the `chsh` command as shown below, see also the screenshot --- `chsh` stands for "change shell":
 > ~~~
@@ -92,14 +92,14 @@ Before the course you will receive via email the information that you will need 
 > ~~~
 > {: .bash}
 > 
-> <img src="./fig/mac02.png" alt="Mac terminal showing command to change to Bash shell" width="200"/> 
+> <img src="./fig/mac02.png" alt="Mac terminal showing command to change to Bash shell" width="600"/> 
 > 
 > Enter your password when prompted to do so:
-> <img src="./fig/mac03.png" alt="" width="200"/> 
+> <img src="./fig/mac03.png" alt="" width="600"/> 
 >
 > The change you have made will take effect once you open a new terminal (you can close the terminal where you run the `chsh` command). Once you open a new you terminal, check that it displays **bash** in the top bar as in the screenshot below: 
 >
-> <img src="./fig/mac04.png" alt="" width="200"/> 
+> <img src="./fig/mac04.png" alt="" width="600"/> 
 > 
 > Note that new terminals that you open will show the message:
 > **The default interactive shell is now zsh**.\
@@ -116,8 +116,8 @@ Before the course you will receive via email the information that you will need 
 > ~~~
 > {: .bash}
 > 
-> <img src="./fig/mac05.png" alt="" width="200"/> 
+> <img src="./fig/mac05.png" alt="" width="600"/> 
 > 
 > Open a new terminal and check that **zsh** is displayed in the top bar of the terminal:
-> <img src="./fig/mac06.png" alt="" width="200"/> 
+> <img src="./fig/mac06.png" alt="" width="600"/> 
 {: .solution}

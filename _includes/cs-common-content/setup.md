@@ -96,7 +96,7 @@ Before the course you will receive via email the information that you will need 
 > 
 > Enter your password when prompted to do so:
 > <img src="./fig/mac03.png" alt="" width="200"/> 
-
+>
 > The change you have made will take effect once you open a new terminal (you can close the terminal where you run the `chsh` command). Once you open a new you terminal, check that it displays **bash** in the top bar as in the screenshot below: 
 >
 > <img src="./fig/mac04.png" alt="" width="200"/> 
@@ -105,9 +105,9 @@ Before the course you will receive via email the information that you will need 
 > **The default interactive shell is now zsh**.\
 > **To update your account to use zsh, please run 'chsh -s /bin/zsh'.
 > 
-> JUST IGNORE IT. 
+> Just ignore it. 
 > 
-> You should now be able to login to your instance in the cloud. If not, get in touch with the Cloud-SPAN team if not.
+> You should now be able to login to your instance in the cloud. If not, get in touch with the Cloud-SPAN team.
 >
 > ### Configuring the terminal back to use Zsh
 > Once you finish the course, if want revert your terminal to its previous configuration, enter or copy-paste the `chsh` command below into a terminal and enter your password when prompted, see the screenshot:
